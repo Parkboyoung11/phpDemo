@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 i love cs go
 csgo is very good
 viking sabertooth play very well
 hahaha
+=======
+i love cs go
+>>>>>>> parent of 604146c... iloveyou
